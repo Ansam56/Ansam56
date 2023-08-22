@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ansam Janajreh</h1>
-<h3 align="center">Full Stack beginner From Palestine</h3>
+<h3 align="center">Plan to be Full Stack developer</h3>
 
 - 📫 How to reach me **ansamjanajreh@gmail.com**
 
