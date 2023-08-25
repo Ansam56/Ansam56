@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ansam Janajreh</h1>
-<h3 align="center">A Computer Systems Engineering Student, Plans To Be A Full Stack Developer</h3>
+<h3 align="center">A Computer Systems Engineering Student</h3>
 
 - 🌱 I’m currently learning **react.js**
 - 📫 How to reach me **ansamjanajreh@gmail.com**
