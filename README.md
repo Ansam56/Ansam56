@@ -1,12 +1,11 @@
 <h1 align="center">I'm Ansam Janajreh</h1>
-<h3 align="center">A Computer Systems Engineering Student</h3>
 
 - 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me **ansamjanajreh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ansam taher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansam taher" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ansam-taher-4ab644233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansam taher" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ansam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ansam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ansamjanajreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansamjanajreh" height="30" width="40" /></a>
 </p>
