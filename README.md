@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me **ansamjanajreh@gmail.com**
-- 📄 <a href="https://docs.google.com/document/d/1xH_FygC5rM0UuHtw_7N6Wldn5E9BpiqdV6Vmg5lhCk0/edit?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
