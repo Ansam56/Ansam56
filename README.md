@@ -1,6 +1,5 @@
 <h1 align="center">I'm Ansam Janajreh</h1>
 
-- 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me **ansamjanajreh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
