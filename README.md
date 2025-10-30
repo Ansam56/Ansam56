@@ -1,5 +1,4 @@
 - 📫 How to reach me **ansamjanajreh@gmail.com**
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1xH_FygC5rM0UuHtw_7N6Wldn5E9BpiqdV6Vmg5lhCk0/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
